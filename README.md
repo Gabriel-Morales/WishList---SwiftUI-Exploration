@@ -11,4 +11,5 @@ Achieved Results:
 4. Fast updating of a sum shown within the navigation view.
 5. Reinforcing Swift knowledge.
 
-![screen-gif](./wishlistgif.gif)
+<img src="./wishlistgif.gif" width="250" height="550"/>
+
